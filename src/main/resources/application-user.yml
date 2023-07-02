@@ -14,7 +14,7 @@ user.ticket-info:
     #  绑定github获取SCKEY
     #  微信绑定server酱，
     #  修改配置文件application-user.yml中的serverSckey，即可开启抢票成功微信通知功能
-    serverSckey:
+    serverSckey:SCT198561TzN7eDjgAVZBDnMs7J2jsDyN4
     #  12306用户名
     username: qiemengyan
     #  12306密码
